@@ -15,4 +15,4 @@ Regex/ Regexp: sequence of charater that define pattern search
 
 ## Example
 ### Symbol *, .
-![Alt Text]('./images/img-basic-set-01.PNG')
+![Alt Text](images/img-basic-set-01.PNG)
