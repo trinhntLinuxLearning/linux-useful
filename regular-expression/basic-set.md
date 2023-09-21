@@ -16,3 +16,29 @@ Regex/ Regexp: sequence of charater that define pattern search
 ## Example
 ### Symbol *, .
 ![Alt Text](images/img-basic-set-01.PNG)
+
+### White space
+![Alt Text](images/img-basic-set-02.PNG)
+
+### Character classes
+![Alt Text](images/img-basic-set-03.PNG)
+
+### Exclude character classes
+![Alt Text](images/img-basic-set-04.PNG)
+
+### Character range classes
+![Alt Text](images/img-basic-set-05.PNG)
+![Alt Text](images/img-basic-set-06.PNG)
+
+### Escaping with Backslash
+![Alt Text](images/img-basic-set-07.PNG)
+![Alt Text](images/img-basic-set-08.PNG)
+![Alt Text](images/img-basic-set-09.PNG)
+
+### Anchor
+Beginning  
+![Alt Text](images/img-basic-set-10.PNG)
+
+Ending  
+![Alt Text](images/img-basic-set-11.PNG)
+
